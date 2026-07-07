@@ -4,3 +4,4 @@ if v1 > v2:
     print(f" {v1} é maior")
 if v2 > v1:
     print((f" {v2} é maior")) 
+    print("teste de push pelo vscode 2 ")
